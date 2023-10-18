@@ -20,7 +20,7 @@ def button_equal():
 
 
 root = tk.Tk()
-root.title("Simple Calculator by Sachin ")
+root.title("Simple Calculator by vignesh ")
 
 
 entry = tk.Entry(root, width=16, font=('Arial', 24), bd=5, justify='right')
